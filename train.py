@@ -190,7 +190,7 @@ def main():
     parser.add_argument('--hash_bit', type=int, default=32, help = 'hash bit')
     parser.add_argument('--laten_dim', type=int, default=64, help = 'the dim of laten features')
     parser.add_argument('--n_clusters', type=int, default=16, help = 'cluster count')
-    parser.add_argument('--pretrained_dp_path', type=str, default='', help = 'the pretrained deepcluster path')
+    parser.add_argument('--pretrained_dp_path', type=str, default='', help = 'the path of a pretrained autoencoder')
 
     # Training
     parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
