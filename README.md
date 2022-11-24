@@ -1,4 +1,4 @@
-1. Build a myautoencder
+1. Train myautoencder
 ```
 cd myautoencoder; python autoencoder.py
 ```
