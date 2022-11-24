@@ -10,5 +10,5 @@ python train.py --hash_bit 32 --pretrained_dp_path your_trained_ae_path
 
 3. Test MrHash
 ```
-python test.py --hash_bit --pretrain_path your_trained_mrhash
+python test.py --hash_bit 32 --pretrain_path your_trained_mrhash
 ```
