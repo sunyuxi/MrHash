@@ -31,7 +31,7 @@ python test.py --hash_bit 32 --pretrain_path your_trained_mrhash
 # Citation
 
 ```
-@ARTICLE{sun3231215,
+@ARTICLE{sun10001754,
   title={Multisource Data Reconstruction-based Deep Unsupervised Hashing for Unisource Remote Sensing Image Retrieval}, 
   author={Yuxi Sun, Yunming Ye, Jian Kang, Ruben Fernandez-Beltran, Yifang Ban, Xutao Li, Bowen Zhang, and Antonio Plaza},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
