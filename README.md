@@ -5,6 +5,8 @@ Unsupervised hashing for remote sensing (RS) image retrieval first extracts imag
 
 # Dataset
 
+Update (2023-04-04): the extracted features (e.g., all_features_resnet50_without_l2_msi.pickle) by a pretrained ResNet50 can be obtained from [Google Drive](https://drive.google.com/file/d/1d2VfWeTsb4-VDnf1yU4w3EEWjci4oFmc/view?usp=sharing). Note: the shared features are optional and you can extract your features using existing pretrained models.
+
 We conduct experiments on two public remote sensing image retrieval datasets.
 
 - EuroSAT is a geo-referenced benchmark dataset. The dataset can be accessed from https://github.com/phelber/eurosat. In addition, we use VHR images as complementary multisource images collected from Google Earth imagery and ArcGIS maps. These images can be obtained from [Google Drive](https://drive.google.com/file/d/1k9-UAXdkik10fJMvrSwfSMCeIzMbexFG/view?usp=sharing).
